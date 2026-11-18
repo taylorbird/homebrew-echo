@@ -1,6 +1,6 @@
 cask "echo" do
-  version "1.7.0"
-  sha256 "1c0f67502bfdedc6331bf54e002ecc9eda797da1387bac4d3c906373ff07facd"
+  version "1.7.1"
+  sha256 "da847e1ecb5fe2d7e4fc1dd59f7b1d2f5746a7a2e28b96bad0ef5b35d8d98784"
 
   url "https://github.com/taylorbird/echo/releases/download/v#{version}/echo-#{version}-arm64.dmg"
   name "echo"
